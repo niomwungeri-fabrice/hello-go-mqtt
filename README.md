@@ -12,6 +12,6 @@ How to use mqtt in golang
 Received message: Message 11877:29297017 7e4268a0a23485137b08dc88de0fdd51765cb3e8a03d35d8f95ef5462b92123c from topic: topic/test
 Received message: Message 0 from topic: topic/test
 Received message: Message 1 from topic: topic/test
-Received message: Message 1 from topic: topic/test
+Received message: Message 2 from topic: topic/test
 ....
 ```
